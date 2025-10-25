@@ -1,1 +1,4 @@
 curl https://get.ignite.com/cli! | bash
+
+ignite scaffold chain mygithubchain --address-prefix github
+
