@@ -4,3 +4,5 @@ ignite scaffold chain mygithubchain --address-prefix github
 
 ignite scaffold module repo
 ignite scaffold message create-repo --module repo title description
+
+...
